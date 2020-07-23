@@ -1,0 +1,56 @@
+
+        #all{
+        width:800px;
+        height:600px;
+        margin-left:2cm;
+        margin-right:2cm;
+        border:1px solid black;
+        }
+        div{
+            border:black 5px solid;
+        }
+        #head{
+        background-color: lightblue;
+        border:3px double black solid;
+        text-align: center;
+        width:800px;
+        padding-top:1em; 
+    }
+    h2
+{
+    text-decoration: underline;
+    }
+    h3{
+        text-decoration: bold;
+    }
+    td
+{
+    padding: 2px;
+    border: 1px solid black;
+    }
+    .button{
+        background-color: black;
+        border:solid 1px black;
+        width:150px;
+        height:40px;
+        color:aqua;
+        border-radius:20px ;
+    }
+             h1{
+            font-family:"Comic Sans MS";
+            background-color: slategrey;
+            width: 60%;
+            border:black;
+            margin: auto;
+            text-align: center;
+            border-radius: .5em;
+            font-size: 3em;
+          }
+            body{
+                background-color:aqua;
+            }     
+            .container{
+                margin-left: 150px;
+                margin-right: 120px;
+            }
+            
